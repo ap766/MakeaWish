@@ -51,6 +51,7 @@ Here, we dont have a backend API because the application directly communicates w
 ### Login as Organiser
 ![N](https://github.com/ap766/MakeaWish/assets/79255079/68b3026c-7c3b-4908-91d9-a03261908270)
 ### The mysql database
+![m](https://github.com/ap766/MakeaWish/assets/79255079/18c5dbe3-20f0-4a01-a58c-64783e915dc4)
 
 ## How to run?
 Create 3 tables - to keep track of wish makers , donators and admin/organisers.

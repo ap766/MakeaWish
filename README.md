@@ -13,6 +13,11 @@ journey of dreaming, inspiring and believing as we continue touching lives acros
 We aim to leave a lasting impression on people and remind them to let their hopes, and not their hurts, shape their future. 
 
 We hope that as you go about living your extraordinary lives, you remember, that Dreams Come True!
+## TECH STACK
++ Python(tkinter) for GUI
++ Python(matplotlib) for plots
++ MySQL Database
+Here, we dont have a backend API because the application directly communicates with the database. We do not make use of the HTTP protocol as in the case of web applications.
 
 ## ORGANIZATIONAL CHART
 
@@ -27,6 +32,8 @@ We hope that as you go about living your extraordinary lives, you remember, that
 1. Login as Fulfiller
 1. Login as Wishmaker
 1. Login as Organiser
+
+## OUTPUT
 
 
 

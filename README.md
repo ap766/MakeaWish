@@ -34,6 +34,33 @@ Here, we dont have a backend API because the application directly communicates w
 1. Login as Organiser
 
 ## OUTPUT
+### Home Page
+![z](https://github.com/ap766/MakeaWish/assets/79255079/c6e5e2b4-e7bd-41f5-b6f1-0d26d68aa998)
+### Facilities
+![y](https://github.com/ap766/MakeaWish/assets/79255079/c5921a7c-27ec-42ff-bd1c-f69ba3555e61)
+### About
+![x](https://github.com/ap766/MakeaWish/assets/79255079/88d1da61-d09e-4f37-82ee-58f16a807d26)
+### Grant a Wish 
+![w](https://github.com/ap766/MakeaWish/assets/79255079/7439ab94-c041-4c9a-bccc-905cdbfd5f0b)
+### Make a Wish
+![v](https://github.com/ap766/MakeaWish/assets/79255079/e0214dae-aa5e-46c5-8d27-f4108eac86e8)
+### Login as Wishmaker
+![t](https://github.com/ap766/MakeaWish/assets/79255079/7273e688-0f7f-4054-9ef7-2b90c5c3a949)
+### Login as Fulfiller
+![s](https://github.com/ap766/MakeaWish/assets/79255079/034ea8f6-a538-45ea-8c42-6249a066f43a)
+### Login as Organiser
+![N](https://github.com/ap766/MakeaWish/assets/79255079/68b3026c-7c3b-4908-91d9-a03261908270)
+### The mysql database
+
+## How to run?
+Create 3 tables - to keep track of wish makers , donators and admin/organisers.
+Enter your password and database name 
+python MakeAWish.py
+
+
+
+
+
 
 
 
